@@ -21,7 +21,7 @@ Follow these steps to install the package into your Laravel project:
 1. Install the package via Composer:
 
 ```bash
-   composer require fadllabanie/env-editor
+composer require fadllabanie/env-editor:^1.0
 ```
 
 2. Publish the package configuration and views:
