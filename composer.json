@@ -1,0 +1,16 @@
+{
+    "name": "fadllabanie/env-editor",
+    "description": "A package to edit the .env file",
+    "autoload": {
+        "psr-4": {
+            "Fadllabanie\\EnvEditor\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Fadllabanie\\EnvEditor\\EnvEditorServiceProvider"
+            ]
+        }
+    }
+}
