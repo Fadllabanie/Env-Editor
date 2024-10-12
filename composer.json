@@ -11,9 +11,7 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/support": "^7.0|^8.0|^9.0|^10.0",
-        "fadllabanie/env-editor": "^1.0"
-
+        "illuminate/support": "^7.0|^8.0|^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {
@@ -28,11 +26,5 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/fadllabanie/env-editor"
-        }
-    ]
+    "prefer-stable": true
 }
