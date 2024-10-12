@@ -1,6 +1,6 @@
 {
     "name": "fadllabanie/env-editor",
-    "description": "A Laravel package to edit .env files from a web interface.!",
+    "description": "A Laravel package to edit .env files from a web interface.",
     "type": "library",
     "license": "MIT",
     "authors": [
