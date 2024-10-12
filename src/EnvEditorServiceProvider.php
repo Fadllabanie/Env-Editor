@@ -11,8 +11,6 @@ class EnvEditorServiceProvider extends ServiceProvider
 {
     public function boot()
     {
-        dd(config('env-editor.env-editor-enable'));  // This will show true or false
-
         if (config('env-editor.env-editor-enable')) {
 
             // Load routes from the package
